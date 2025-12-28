@@ -102,8 +102,3 @@ This project demonstrates how **exploratory data analysis** can convert raw data
 The findings can help instructors and platforms make informed decisions about pricing, content planning, and course design.
 
 ---
-==
-
-
-## 📁 Project Structure
-
