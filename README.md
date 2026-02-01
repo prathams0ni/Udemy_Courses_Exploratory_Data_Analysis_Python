@@ -99,6 +99,4 @@ Visualizations were created using **Matplotlib** and **Seaborn** to support insi
 
 ## ✅ Conclusion
 This project demonstrates how **exploratory data analysis** can convert raw data into actionable insights.  
-The findings can help instructors and platforms make informed decisions about pricing, content planning, and course design.
-
----
+The findings can help instructors and platforms make informed decisions about pricing, content planning, and course design
