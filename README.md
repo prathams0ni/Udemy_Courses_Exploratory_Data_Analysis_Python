@@ -2,7 +2,7 @@
 
 # Data Pre Processing & Exploratory Data Analysis Using a Udemy Course Analysis Data Set.
 
-## Udemy Course Analysis:
+## Udemy Course Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
